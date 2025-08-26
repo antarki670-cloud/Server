@@ -244,3 +244,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Aug2025 03:59:52.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antarki01[/127.59.32.106:33999] logged in with entity id 679 at (-153.5535015503503, 68.0, 62.39844346647716)
 [26Aug2025 03:59:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 joined the game
 [26Aug2025 04:01:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement ['X' Marks the Spot]
+[26Aug2025 04:04:57.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antarki01 lost connection: Disconnected
+[26Aug2025 04:04:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 left the game
