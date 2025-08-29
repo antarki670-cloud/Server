@@ -2844,3 +2844,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Aug2025 03:21:45.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
 [29Aug2025 03:25:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 suffocated in a wall
 [29Aug2025 03:25:52.816] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756437952809
+[29Aug2025 03:26:04.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/4628, l='ServerLevel[MundoAp]', x=44.30, y=14.00, z=262.70] died: entity.hordes.ZombiePlayer.chat was slain by Antarki01
+[29Aug2025 03:26:45.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 03:26:45.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 03:31:45.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 03:31:45.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 03:32:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> duerme chipi
+[29Aug2025 03:32:16.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> zzzzzz
+[29Aug2025 03:32:39.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> zzzzz
+[29Aug2025 03:34:50.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa was slain by Zombie
+[29Aug2025 03:34:51.997] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756438491996
+[29Aug2025 03:34:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> xD
+[29Aug2025 03:35:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> 107 64 199
