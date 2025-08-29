@@ -11,3 +11,6 @@
 [29Aug2025 00:28:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 joined the game
 [29Aug2025 00:36:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Isn't It Iron Pick]
 [29Aug2025 00:39:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Suit Up]
+[29Aug2025 00:48:02.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/2728, l='ServerLevel[MundoAp]', x=71.30, y=-14.00, z=270.40] died: entity.hordes.ZombiePlayer.chat was slain by Looter
+[29Aug2025 00:48:27.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/34, l='ServerLevel[MundoAp]', x=107.25, y=67.00, z=181.54] died: entity.hordes.ZombiePlayer.chat was slain by Soldier
+[29Aug2025 00:54:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 was doomed to fall

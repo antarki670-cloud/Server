@@ -3123,3 +3123,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Aug2025 00:39:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Suit Up]
 [29Aug2025 00:42:59.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
 [29Aug2025 00:42:59.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 00:47:59.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 00:47:59.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 00:48:02.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/2728, l='ServerLevel[MundoAp]', x=71.30, y=-14.00, z=270.40] died: entity.hordes.ZombiePlayer.chat was slain by Looter
+[29Aug2025 00:48:27.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/34, l='ServerLevel[MundoAp]', x=107.25, y=67.00, z=181.54] died: entity.hordes.ZombiePlayer.chat was slain by Soldier
+[29Aug2025 00:52:59.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 00:52:59.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 00:54:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 was doomed to fall
+[29Aug2025 00:54:34.851] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756428874851
