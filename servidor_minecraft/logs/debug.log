@@ -3118,3 +3118,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Aug2025 00:32:59.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
 [29Aug2025 00:32:59.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
 [29Aug2025 00:36:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Isn't It Iron Pick]
+[29Aug2025 00:37:59.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 00:37:59.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[29Aug2025 00:39:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Suit Up]
+[29Aug2025 00:42:59.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[29Aug2025 00:42:59.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
