@@ -7,3 +7,6 @@
 [29Aug2025 00:22:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 fell from a high place
 [29Aug2025 00:24:38.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antarki01 lost connection: Disconnected
 [29Aug2025 00:24:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 left the game
+[29Aug2025 00:28:51.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antarki01[/127.59.32.106:52751] logged in with entity id 3156 at (46.5, 16.0, 261.5)
+[29Aug2025 00:28:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 joined the game
+[29Aug2025 00:36:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Isn't It Iron Pick]
