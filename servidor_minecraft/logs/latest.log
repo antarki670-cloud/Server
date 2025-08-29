@@ -633,3 +633,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Aug2025 03:34:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> xD
 [29Aug2025 03:35:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> 107 64 199
 [29Aug2025 03:38:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> busco aldea chiboloa
+[29Aug2025 04:01:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa was slain by Walker
+[29Aug2025 04:03:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa was slain by Walker
+[29Aug2025 04:03:57.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Not Today, Thank You]
+[29Aug2025 04:04:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaRio190waa> cords
+[29Aug2025 04:05:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> 344
+[29Aug2025 04:05:12.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['MaRio190waa'/25762, l='ServerLevel[MundoAp]', x=-377.65, y=71.00, z=540.51] died: entity.hordes.ZombiePlayer.chat was slain by MaRio190waa
+[29Aug2025 04:05:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> -573
+[29Aug2025 04:05:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 has made the advancement [Into Fire]
+[29Aug2025 04:07:38.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa has made the advancement [Not Today, Thank You]
+[29Aug2025 04:07:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa was blown up by Explosive Zombie
+[29Aug2025 04:12:53.004] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2b4f9cdc]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[29Aug2025 04:12:53.007] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@370ddf32
+[29Aug2025 04:12:53.009] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 0
+[29Aug2025 04:12:53.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:13:43.062] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:13:49.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 suffocated in a wall
+[29Aug2025 04:14:03.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/34560, l='ServerLevel[MundoAp]', x=342.70, y=75.00, z=-571.57] died: entity.hordes.ZombiePlayer.chat suffocated in a wall
+[29Aug2025 04:14:33.051] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:15:23.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:16:13.058] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:17:03.058] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[29Aug2025 04:19:50.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
+[29Aug2025 04:19:50.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaRio190waa moved too quickly! 2.8201864465681865,0.16779664663324922,-9.671463038429273
+[29Aug2025 04:20:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa has made the advancement [Disme A Dozen]
+[29Aug2025 04:25:19.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaRio190waa lost connection: Disconnected
+[29Aug2025 04:25:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaRio190waa left the game
+[29Aug2025 04:25:47.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antarki01 lost connection: Disconnected
+[29Aug2025 04:25:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 left the game
