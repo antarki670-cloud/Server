@@ -996,6 +996,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-28 03:13:26 +0000",
       "cooked_mutton": "2025-08-28 03:29:46 +0000",
+      "cooked_beef": "2025-08-29 03:38:53 +0000",
       "mutton": "2025-08-28 03:31:42 +0000",
       "bread": "2025-08-29 03:19:29 +0000",
       "rotten_flesh": "2025-08-28 02:44:29 +0000",
@@ -1609,6 +1610,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-08-29 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-29 03:33:45 +0000"
     },
     "done": true
   },
