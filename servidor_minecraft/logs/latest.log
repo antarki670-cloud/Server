@@ -36,3 +36,16 @@
 [29Aug2025 01:24:56.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antarki01> 92 65 197
 [29Aug2025 01:25:49.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 moved too quickly! 7.682686215996341,-0.504799122994072,6.709822946105419
 [29Aug2025 01:30:40.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TITIN_2> 124 73 424
+[29Aug2025 01:44:16.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 was kicked for floating too long!
+[29Aug2025 01:44:16.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 lost connection: Disconnected
+[29Aug2025 01:44:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
+[29Aug2025 01:44:16.369] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 01:44:38.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TITIN_2[/127.145.145.251:55265] logged in with entity id 26567 at (265.16683308933455, 73.25220334025373, -84.78264308654813)
+[29Aug2025 01:44:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 joined the game
+[29Aug2025 01:45:09.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 was kicked for floating too long!
+[29Aug2025 01:45:09.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 lost connection: Flying is not enabled on this server
+[29Aug2025 01:45:09.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
+[29Aug2025 01:45:39.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TITIN_2[/127.145.145.251:51769] logged in with entity id 27334 at (266.06324791035496, 73.16610926093821, -148.28345758090083)
+[29Aug2025 01:45:39.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 joined the game
+[29Aug2025 01:50:47.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 moved too quickly! 7.142608873375252,-7.0,-1.3197963643602293
+[29Aug2025 01:55:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 was doomed to fall by Runner
