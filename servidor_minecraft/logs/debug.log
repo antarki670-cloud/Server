@@ -3920,3 +3920,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Aug2025 00:55:55.489] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756515355489
 [30Aug2025 00:56:13.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
 [30Aug2025 00:56:13.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 00:57:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 suffocated in a wall
+[30Aug2025 00:57:18.171] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756515438171
+[30Aug2025 00:57:31.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/65722, l='ServerLevel[MundoAp]', x=-1100.30, y=83.00, z=617.70] died: entity.hordes.ZombiePlayer.chat suffocated in a wall
+[30Aug2025 01:01:13.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 01:01:13.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 01:04:29.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 suffocated in a wall
+[30Aug2025 01:04:31.117] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756515871117
+[30Aug2025 01:04:50.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['TITIN_2'/68300, l='ServerLevel[MundoAp]', x=-1084.99, y=86.00, z=621.51] died: entity.hordes.ZombiePlayer.chat was shot by Antarki01
+[30Aug2025 01:06:13.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 01:06:13.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp

@@ -65,3 +65,7 @@
 [30Aug2025 00:55:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
 [30Aug2025 00:55:54.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TITIN_2[/127.145.145.251:51329] logged in with entity id 65436 at (-1077.3937899876303, 84.16610926093821, 625.1570260003745)
 [30Aug2025 00:55:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 joined the game
+[30Aug2025 00:57:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 suffocated in a wall
+[30Aug2025 00:57:31.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Antarki01'/65722, l='ServerLevel[MundoAp]', x=-1100.30, y=83.00, z=617.70] died: entity.hordes.ZombiePlayer.chat suffocated in a wall
+[30Aug2025 01:04:29.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 suffocated in a wall
+[30Aug2025 01:04:50.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['TITIN_2'/68300, l='ServerLevel[MundoAp]', x=-1084.99, y=86.00, z=621.51] died: entity.hordes.ZombiePlayer.chat was shot by Antarki01
