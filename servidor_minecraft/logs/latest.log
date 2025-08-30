@@ -74,3 +74,5 @@
 [30Aug2025 01:15:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
 [30Aug2025 01:16:14.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antarki01 lost connection: Disconnected
 [30Aug2025 01:16:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 left the game
+[30Aug2025 02:46:23.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antarki01[/127.59.32.106:50433] logged in with entity id 72981 at (-1065.6410983281191, 93.0, 613.3412295530834)
+[30Aug2025 02:46:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 joined the game
