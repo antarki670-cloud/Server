@@ -59,3 +59,9 @@
 [30Aug2025 00:31:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 has made the advancement [Disme A Dozen]
 [30Aug2025 00:35:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 has made the advancement [Isn't It Iron Pick]
 [30Aug2025 00:42:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 suffocated in a wall
+[30Aug2025 00:52:55.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 moved too quickly! -5.177623805744133,1.2491870787446828,8.730803978073027
+[30Aug2025 00:55:39.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 was kicked for floating too long!
+[30Aug2025 00:55:39.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 lost connection: Flying is not enabled on this server
+[30Aug2025 00:55:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
+[30Aug2025 00:55:54.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TITIN_2[/127.145.145.251:51329] logged in with entity id 65436 at (-1077.3937899876303, 84.16610926093821, 625.1570260003745)
+[30Aug2025 00:55:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 joined the game
