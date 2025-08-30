@@ -3959,3 +3959,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Aug2025 02:01:13.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
 [30Aug2025 02:06:13.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
 [30Aug2025 02:06:13.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 02:11:13.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 02:11:13.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 02:16:13.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 02:16:13.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
