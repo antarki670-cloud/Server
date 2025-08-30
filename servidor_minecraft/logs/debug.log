@@ -3930,3 +3930,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Aug2025 01:04:50.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['TITIN_2'/68300, l='ServerLevel[MundoAp]', x=-1084.99, y=86.00, z=621.51] died: entity.hordes.ZombiePlayer.chat was shot by Antarki01
 [30Aug2025 01:06:13.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
 [30Aug2025 01:06:13.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 01:07:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 has made the advancement [Sweet Dreams]
+[30Aug2025 01:11:13.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 01:11:13.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 01:15:24.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TITIN_2 lost connection: Disconnected
+[30Aug2025 01:15:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TITIN_2 left the game
+[30Aug2025 01:16:13.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MundoAp
+[30Aug2025 01:16:13.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MundoAp
+[30Aug2025 01:16:14.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antarki01 lost connection: Disconnected
+[30Aug2025 01:16:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antarki01 left the game

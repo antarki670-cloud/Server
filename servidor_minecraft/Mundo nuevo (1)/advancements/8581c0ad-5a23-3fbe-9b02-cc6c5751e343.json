@@ -24,6 +24,7 @@
       "minecraft:forest": "2025-08-28 02:43:58 +0000",
       "minecraft:deep_cold_ocean": "2025-08-29 23:35:52 +0000",
       "minecraft:ocean": "2025-08-28 02:40:29 +0000",
+      "minecraft:flower_forest": "2025-08-30 01:14:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-29 01:16:58 +0000",
       "minecraft:meadow": "2025-08-28 03:25:07 +0000",
       "minecraft:plains": "2025-08-29 04:21:26 +0000"
@@ -2900,6 +2901,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-29 23:40:23 +0000"
@@ -2921,6 +2934,18 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-08-29 23:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
     },
     "done": true
   },
@@ -2948,6 +2973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-29 23:49:09 +0000"
@@ -2957,6 +2988,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-29 23:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
     },
     "done": true
   },
@@ -2972,9 +3009,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-29 23:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-30 01:15:11 +0000"
     },
     "done": true
   },
@@ -3014,6 +3069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-30 01:14:56 +0000"
+    },
+    "done": true
+  },
   "apocalypsenow:firstworld_doctor": {
     "criteria": {
       "firstworld_doctor_0": "2025-08-29 23:54:51 +0000"
@@ -3029,6 +3090,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-29 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 01:14:56 +0000"
     },
     "done": true
   },
